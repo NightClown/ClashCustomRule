@@ -29,7 +29,7 @@ ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 ruleset=🎮 Nintendo,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/Nintendo.list
-ruleset=💵 PayPal,https://raw.githubusercontent.com/NightClown/MyClashRule/main/paypal.list?token=GHSAT0AAAAAACNXGSO56RB36K3F4RTGODW4ZN6M44Q
+ruleset=💵 PayPal,https://raw.githubusercontent.com/NightClown/ClashCustomRule/master/paypal.list
 ruleset=🤖 OpenAI,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/openai.list
 ruleset=📈 IBKR,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/ibkr.list
 ruleset=👛 Wallet,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/wallet.list
